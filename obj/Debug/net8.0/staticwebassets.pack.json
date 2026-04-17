@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/script.js",
+      "PackagePath": "staticwebassets/script.js"
+    },
+    {
+      "Id": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/styles.css",
+      "PackagePath": "staticwebassets/styles.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.DisplayInvoiceApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.DisplayInvoiceApp.props",
+      "PackagePath": "build\\DisplayInvoiceApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.DisplayInvoiceApp.props",
+      "PackagePath": "buildMultiTargeting\\DisplayInvoiceApp.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.DisplayInvoiceApp.props",
+      "PackagePath": "buildTransitive\\DisplayInvoiceApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

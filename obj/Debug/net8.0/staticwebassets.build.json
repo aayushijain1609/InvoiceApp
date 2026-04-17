@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "bCNVoCVITSUtquVZ8aCzDhuXjXKIkZsYLLWrOpisHNE=",
+  "Source": "DisplayInvoiceApp",
+  "BasePath": "_content/DisplayInvoiceApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DisplayInvoiceApp/wwwroot",
+      "Source": "DisplayInvoiceApp",
+      "ContentRoot": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/",
+      "BasePath": "_content/DisplayInvoiceApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/index.html",
+      "SourceId": "DisplayInvoiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/",
+      "BasePath": "_content/DisplayInvoiceApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/index.html"
+    },
+    {
+      "Identity": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/script.js",
+      "SourceId": "DisplayInvoiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/",
+      "BasePath": "_content/DisplayInvoiceApp",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/script.js"
+    },
+    {
+      "Identity": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/styles.css",
+      "SourceId": "DisplayInvoiceApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/aayushi/Desktop/DisplayInvoiceApp/wwwroot/",
+      "BasePath": "_content/DisplayInvoiceApp",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/styles.css"
+    }
+  ]
+}
